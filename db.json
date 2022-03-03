@@ -1,0 +1,298 @@
+{
+  "paletas": [
+    {
+      "id": 0,
+      "name": "Chocotorro",
+      "image": "images/CHOCOTORRO.png",
+      "category": "pink chocolate",
+      "label": "Hot",
+      "price": 1.45,
+      "featured": true,
+      "description": "A unique combination of Chocotorro (pancake) chocolate ice cream, topped with pink chocolate and chocolate grit"
+    },
+    {
+      "id": 1,
+      "name": "Dalmata",
+      "image": "images/DALMATA.png",
+      "category": "white chocolate",
+      "label": "",
+      "price": 1.45,
+      "featured": false,
+      "description": "A unique combination of Dalmata (pancake) chocolate ice cream, topped with white chocolate and chocolate chips"
+    },
+    {
+      "id": 2,
+      "name": "Kinder Delice",
+      "image": "images/KINDER DELICE.png",
+      "category": "normal chocolate",
+      "label": "New",
+      "price": 1.45,
+      "featured": false,
+      "description": "A unique combination of Kinder Delice (pancake) chocolate ice cream, topped with normal chocolate"
+    },
+    {
+      "id": 3,
+      "name": "Nutella",
+      "image": "images/NUTELLA.png",
+      "category": "dessert",
+      "label": "",
+      "price": 1.45,
+      "featured": false,
+      "description": "A unique combination of ice cream and nutella, essence of hazelnut, topped with normal chocolate and white chocolate stripes"
+    }
+  ],
+  "comments": [
+    {
+      "id": 0,
+      "paletaId": 0,
+      "rating": 5,
+      "comment": "Imagine all the eatables, living in conFusion!",
+      "author": "John Lemon",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 1,
+      "paletaId": 0,
+      "rating": 4,
+      "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+      "author": "Paul McVites",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 2,
+      "paletaId": 0,
+      "rating": 3,
+      "comment": "Eat it, just eat it!",
+      "author": "Michael Jaikishan",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 3,
+      "paletaId": 0,
+      "rating": 4,
+      "comment": "Ultimate, Reaching for the stars!",
+      "author": "Ringo Starry",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 4,
+      "paletaId": 0,
+      "rating": 2,
+      "comment": "It's your birthday, we're gonna party!",
+      "author": "25 Cent",
+      "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 5,
+      "paletaId": 1,
+      "rating": 5,
+      "comment": "Imagine all the eatables, living in conFusion!",
+      "author": "John Lemon",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 6,
+      "paletaId": 1,
+      "rating": 4,
+      "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+      "author": "Paul McVites",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 7,
+      "paletaId": 1,
+      "rating": 3,
+      "comment": "Eat it, just eat it!",
+      "author": "Michael Jaikishan",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 8,
+      "paletaId": 1,
+      "rating": 4,
+      "comment": "Ultimate, Reaching for the stars!",
+      "author": "Ringo Starry",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 9,
+      "paletaId": 1,
+      "rating": 2,
+      "comment": "It's your birthday, we're gonna party!",
+      "author": "25 Cent",
+      "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 10,
+      "paletaId": 2,
+      "rating": 5,
+      "comment": "Imagine all the eatables, living in conFusion!",
+      "author": "John Lemon",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 11,
+      "paletaId": 2,
+      "rating": 4,
+      "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+      "author": "Paul McVites",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 12,
+      "paletaId": 2,
+      "rating": 3,
+      "comment": "Eat it, just eat it!",
+      "author": "Michael Jaikishan",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 13,
+      "paletaId": 2,
+      "rating": 4,
+      "comment": "Ultimate, Reaching for the stars!",
+      "author": "Ringo Starry",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 14,
+      "paletaId": 2,
+      "rating": 2,
+      "comment": "It's your birthday, we're gonna party!",
+      "author": "25 Cent",
+      "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 15,
+      "paletaId": 3,
+      "rating": 5,
+      "comment": "Imagine all the eatables, living in conFusion!",
+      "author": "John Lemon",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 16,
+      "paletaId": 3,
+      "rating": 4,
+      "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+      "author": "Paul McVites",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 17,
+      "paletaId": 3,
+      "rating": 3,
+      "comment": "Eat it, just eat it!",
+      "author": "Michael Jaikishan",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 18,
+      "paletaId": 3,
+      "rating": 4,
+      "comment": "Ultimate, Reaching for the stars!",
+      "author": "Ringo Starry",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 19,
+      "paletaId": 3,
+      "rating": 2,
+      "comment": "It's your birthday, we're gonna party!",
+      "author": "25 Cent",
+      "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "paletaId": 0,
+      "rating": "5",
+      "author": "Carlos",
+      "comment": "Muy rica!",
+      "date": "2022-03-02T16:31:42.169Z",
+      "id": 20
+    },
+    {
+      "paletaId": 1,
+      "rating": "5",
+      "author": "Carlos",
+      "comment": "muy riquisima",
+      "date": "2022-03-02T18:47:27.129Z",
+      "id": 21
+    },
+    {
+      "paletaId": 0,
+      "rating": "5",
+      "author": "Bertha",
+      "comment": "So delicious",
+      "date": "2022-03-02T18:51:42.712Z",
+      "id": 22
+    },
+    {
+      "paletaId": 3,
+      "rating": "3",
+      "author": "Unkown",
+      "comment": "Me gusta",
+      "date": "2022-03-02T19:02:26.930Z",
+      "id": 23
+    },
+    {
+      "paletaId": 3,
+      "rating": "4",
+      "author": "qew",
+      "comment": "d",
+      "date": "2022-03-02T19:04:00.587Z",
+      "id": 24
+    },
+    {
+      "paletaId": 2,
+      "rating": "4",
+      "author": "edqpom",
+      "comment": "cqw",
+      "date": "2022-03-02T19:23:12.689Z",
+      "id": 25
+    }
+  ],
+  "promotions": [
+    {
+      "id": 0,
+      "name": "Valentine's Day",
+      "image": "images/valentines.png",
+      "label": "New",
+      "price": 9.99,
+      "featured": true,
+      "description": "A delicious gift for your favorite person, give love give Pauletta's popsicles. All you need is love, now with a love card and envelope included! You can now send your gourmet popsicles in Valentine's boxes!  "
+    }
+  ],
+  "leaders": [
+    {
+      "id": 0,
+      "name": "Carlos Menodza",
+      "image": "images/carlos.png",
+      "designation": "Chief Executive Officer",
+      "abbr": "CEO",
+      "featured": false,
+      "description": "Our CEO, Carlos, credits his hardworking East Asian immigrant parents who undertook the arduous journey to the shores of America with the intention of giving their children the best future. His mother's wizardy in the kitchen whipping up the tastiest dishes with whatever is available inexpensively at the supermarket, was his first inspiration to create the fusion cuisines for which The Frying Pan became well known. He brings his zeal for fusion cuisines to this restaurant, pioneering cross-cultural culinary connections."
+    },
+    {
+      "id": 1,
+      "name": "Bertha Robles",
+      "image": "images/bertha.png",
+      "designation": "Executive Chef",
+      "abbr": "EC",
+      "featured": true,
+      "description": "Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!"
+    }
+  ],
+  "feedback": [
+    {
+      "firstname": "fdas",
+      "lastname": "afds",
+      "telnum": "134113",
+      "email": "dafdads@daffas.dfdafd",
+      "agree": true,
+      "contactType": "Email",
+      "message": "afadsfds",
+      "date": "2017-12-04T09:41:49.890Z",
+      "id": 1
+    }
+  ]
+}
